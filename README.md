@@ -2,7 +2,7 @@
 *_This project uses mongoose & redis to create a book, cache it and can be reveiled when a book query is done_*
 
 ####Dependences####
-* [redis]('http://redis.io/')
+* [redis](http://redis.io/)
 
 ###How to run this project###
 1. clone this project from its URL 'https://github.com/edgarmujuni/mongoRedisCache.git'
