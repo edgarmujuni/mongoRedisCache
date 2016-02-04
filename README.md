@@ -1,8 +1,9 @@
 ##mongoRedisCache project##
-*_This project uses mongoose & redis to create a book, cache it and can be reveiled when a book query is done_*
+*_this project uses mongodb an redis to create acaching system for a book API service_*
 
-####Dependences####
+####Dependencies####
 * [redis](http://redis.io/)
+* [mongodb](https://www.mongodb.org/)
 
 ###How to run this project###
 1. clone this project from its URL 'https://github.com/edgarmujuni/mongoRedisCache.git'
