@@ -1,5 +1,5 @@
 ##mongoRedisCache project##
-*_this project uses mongodb an redis to create acaching system for a book API service_*
+*_This project uses mongodb and redis to create a caching system for a book API service_*
 
 ####Dependencies####
 * [redis](http://redis.io/)
